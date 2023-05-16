@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Lycorizon
-- 👀 I’m interested in 3D animation and software development
-- 🌱 I’m currently learning C#, Rust, Html, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on my personal website project.
-- 📫 How to reach me : Lycorizon#1472 on Discord.
